@@ -1,0 +1,16 @@
+<?php
+namespace Zu\Controller;
+use Think\Controller;
+class DatajController extends Controller {
+
+   public function __construct(){
+        parent::__construct();
+ 	    $this->Mft = M("ftboot");
+		$this->zh_cn = "zh-cn";
+    }
+    public function ftrdata(){
+		$where = "r_show = 1 AND langx = {$this->zh_cn} AND DATE_FORMAT(starttime, '%y-%m-%d')  = 1";
+        
+
+    }
+}

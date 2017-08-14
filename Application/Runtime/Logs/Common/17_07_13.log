@@ -1,0 +1,30 @@
+[ 2017-07-13T09:21:12+08:00 ] 192.168.1.29 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-13T09:22:57+08:00 ] 192.168.1.29 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-13T09:22:58+08:00 ] 192.168.1.29 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-13T10:10:29+08:00 ] 192.168.1.29 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.049264s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-13T10:13:34+08:00 ] 192.168.1.29 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Favicon
+

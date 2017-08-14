@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>首页</title>
+    <link rel="stylesheet" type="text/css" href="/Public/css/reset_indexFT.css">
+    <link rel="stylesheet" type="text/css" href="/Public/css/order.css">
+    <link rel="stylesheet" type="text/css" href="/Public/css/bet_maincotrol.css">
+    <link rel="stylesheet" type="text/css" href="/Public/css/header.css">
+    <link rel="stylesheet" type="text/css" href="/Public/css/live.css">
+</head>
+<body style="background-color: #503f32;">  
+	<!--<body id="FT_index_body" style="overflow-y:hidden" class="index_body">-->
+	<!--注意事项弹出-->
+	<include file="Content/notice"/> 
+	
+    <div id="loadingMain" class="index_MDIV" style="display: none;"></div>
+    <div id="top_div" class="indexMain_DIV indexW_mid">
+    <!--大load-->
+    <table class="indexMain_TB coffee" border="0" cellpadding="0" cellspacing="0"> 
+        <tbody>
+            <!-- 公共头部 -->
+            <include file="Index/head"/> 
+            <!-- 内容 -->
+            <tr class="wt">
+                <!-- 左侧 -->
+                <td class="index_leftTD">
+                    <include file="Index/left"/> 
+                </td>
+                <!-- 中间 -->
+                <td class="index_midTD">
+                    <!-- 只看状态 -->
+                    <div class="zkzt" style="display:none">
+                        <div id="status_s_zh-tw" class="status_errDIV">
+                            您的帳戶狀態已被改為 “只能看帳”。
+                            <br>
+                            您只能繼續查看
+                            <tt onclick="showMyAccount('OpenBets');">
+                                交易狀況
+                            </tt>
+                            和
+                            <tt onclick="showMyAccount('Statement');">
+                                帳戶歷史
+                            </tt>
+                            。
+                        </div>
+                        <div id="status_s_zh-cn" class="status_errDIV">
+                            您的帐户状态已被改为 “只能看帐”。
+                            <br>
+                            您只能继续查看
+                            <tt onclick="showMyAccount('OpenBets');">
+                                交易状况
+                            </tt>
+                            和
+                            <tt onclick="showMyAccount('Statement');">
+                                帐户历史
+                            </tt>
+                            。
+                        </div>
+                        <div id="status_s_en-us" class="status_errDIV">
+                            Your account has been changed to ‘View Only’ access.
+                            <br>
+                            You may only access
+                            <tt onclick="showMyAccount('OpenBets');">
+                                Open Bets
+                            </tt>
+                            and
+                            <tt onclick="showMyAccount('Statement');">
+                                Statements
+                            </tt>
+                            .
+                        </div>
+                        <div id="status_s_ko-kr" class="status_errDIV">
+                            고객님의 계정이 "조회 전용" 상태로 전환 되었습니다.
+                            <br>
+                            고객님은
+                            <tt onclick="showMyAccount('OpenBets');">
+                                미정산 베팅
+                            </tt>
+                            및
+                            <tt onclick="showMyAccount('Statement');">
+                                계정내역에
+                            </tt>
+                            한하여 이용하실 수 있습니다.
+                        </div>
+                    </div>
+                    <!-- 中间加载圈 -->
+                    <div id="loading" class="index_loadDIV" style="display: none;">
+                        <div class="index_loadDIV_edge">
+                        </div>
+                    </div>
+                    <!--查看更多弹窗-->
+    				<iframe id="more_iframe_w" name="more_iframe_w" style="display:none;width:100%;height:inherit;position:absolute;z-index:99;margin:0 auto;" src="{:U('Content/more_iframe_w')}"></iframe>
+                    <iframe id="legFrame" name="legFrame" style="display:none;width:100%;height:inherit;position:absolute;z-index:999;margin:0 auto;" src="{:U('Content/legFrame')}"></iframe>
+                    <!-- 引入不同路径 -->
+                    <div id="body_view" name="body_view" style="display:;width:100%;height:100%;display:block">
+                        <iframe  id="body" name="body"
+                        src="{:U('Content/FT')}" width="100%" height="100%" frameborder="0" >
+                        </iframe>
+                    </div>
+                </td>
+                
+                <!-- 右侧 -->
+                <td id="top_tv" class="index_rightTD coffee">
+                    <div id="noTV" class="index_noDIV" style="display:none">
+                        
+                    </div>
+                    <!-- 加载圈 -->
+                    <div id="loadingR" class="index_loadDIV" style="display:none"></div>
+                    <include file="Index/right"/> 
+                </td>
+            
+        </tbody>
+    </table>
+</div>
+<script type="text/javascript" src="/Public/js/jquery-1.12.2.js"></script>
+<script type="text/javascript">
+        //路径
+        function chgTitle(dizhi){
+        	var lujing = $("#body_view").attr("src");
+        	var url = "/index.php/Home/Content/"+dizhi;
+        	alert(dizhi);
+            lujing = $("#body").attr("src",url);
+            document.getElementById('body_view').contentWindow.iframeMethod(back); 
+        };
+   
+		
+		//infram父继承子页面事件
+		function load(){
+			function chgTitle(dizhi) {
+			    document.getElementById("bet_order_frame").contentWindow.childtest();
+			    
+			};
+			
+		};
+		function closeClickEvent(){
+			$("#more_iframe_w").hide();
+			//alert(2);
+		};
+		  function show_allbets(){
+		  	$('.legFrame').show();
+		  	body.window.back(); 
+		 };
+		function back(){
+			alert(2222);
+			$("#legFrame").hide();
+		};
+   	function betOrder(leibie,id,inform,sum){
+		alert(sum);
+	};
+	      
+//查看更多弹窗
+function back(){
+	document.getElementById('more_iframe_w').style.display="none";
+};  	
+
+ //隐藏特殊
+ function show_filters(){
+ 	$("#filter_div").toggle();
+ };
+ function closeClickEvent(){
+ 	$("#more_iframe_w").hide();
+ };
+
+
+
+    
+</script>
+</body>
+</html>

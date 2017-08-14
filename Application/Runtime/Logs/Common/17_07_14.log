@@ -1,0 +1,1980 @@
+[ 2017-07-14T09:31:30+08:00 ] 192.168.1.31 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-14T09:31:36+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:05+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:05+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:05+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_lang_cn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003236s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:06+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:34:10+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T09:35:10+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000210s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T09:35:10+08:00 ] 192.168.1.31 /images/member/head_qa_sub.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002022s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002090s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:09+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_lang_cn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:10+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002192s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:11+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:41:13+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T11:41:35+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:41:43+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T11:41:44+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T11:43:07+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_lang_cn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:03+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003243s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:04+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:05+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:51:07+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T11:51:11+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:55:47+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:55:47+08:00 ] 192.168.1.31 /images/member/head_qa_sub.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:10+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:10+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:10+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:10+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:10+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_lang_cn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003437s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:11+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:12+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:12+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:12+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:13+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:14+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002246s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:27+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:28+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002211s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_lang_cn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:29+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:31+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T11:58:43+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:43+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /Public/images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:44+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /Public/images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:45+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T11:58:50+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T12:01:43+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:43+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:43+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:43+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:43+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:43+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /Public/images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:44+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001960s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:45+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:01:45+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:45+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:46+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:01:47+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006202s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:35+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /Public/images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /Public/images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:36+08:00 ] 192.168.1.31 /images/member/order_none.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:02:38+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T12:02:48+08:00 ] 192.168.1.31 /Public/images/member/head_lang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:03:08+08:00 ] 192.168.1.31 /Public/images/member/head_qa_sub.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:03:08+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001284s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001914s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:47+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /Public/images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /Public/images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:48+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:04:50+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Iovation
+
+[ 2017-07-14T12:05:08+08:00 ] 192.168.1.31 /Public/images/member/head_lang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:05:09+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:05:09+08:00 ] 192.168.1.31 /Public/images/member/head_qa_sub.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:05:10+08:00 ] 192.168.1.31 /tpl/member/zh-cn/QA_conn.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Tpl
+
+[ 2017-07-14T12:05:52+08:00 ] 192.168.1.31 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-14T12:05:58+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:05:58+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:18+08:00 ] 192.168.1.31 /index.php/old/index.html?id=today_wagers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Old
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /images/member/loading_pic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /images/member/load_alpha.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/js/chg_site.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/css/mem_order_sel.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/js/notice.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/images/member/browserDIV.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /Public/images/member/browserWord_txt04.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /images/member/blackMask.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:43+08:00 ] 192.168.1.31 /images/member/scrollbar_thumbBG.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:44+08:00 ] 192.168.1.31 /Public/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_rb_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/live_tv_m.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_bg_ft.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_early_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_today_btn.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_new_pic.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_nav_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_type_bg_ft.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /Public/images/member/head_mail.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_nav_arr.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /Public/images/member/head_qa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /Public/images/member/head_home.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001731s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_credit_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:45+08:00 ] 192.168.1.31 /images/member/head_credit_refresh.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-14T12:06:48+08:00 ] 192.168.1.31 /iovation/vindex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Iovation
+

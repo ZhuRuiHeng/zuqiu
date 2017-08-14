@@ -1,0 +1,438 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8 ">
+		<script>
+		function CookieManager(){
+			var _self = this;
+		
+			_self.set = function(cname, cvalue, exdays , path){
+					exdays = exdays || 30;
+					path = path || "/"
+		
+				    var d = new Date();
+				    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+				    var expires = "expires="+d.toUTCString();
+				    var paths = "path="+path;
+				    document.cookie = cname + "=" + cvalue + "; " + expires+"; "+paths;
+			}
+		
+			_self.get = function(cname){
+				    var name = cname + "=";
+				    var ca = document.cookie.split(';');
+				    for(var i=0; i<ca.length; i++) {
+				        var c = ca[i];
+				        while (c.charAt(0)==' ') c = c.substring(1);
+				        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+				    }
+		
+				    return undefined;
+			}
+		}</script>
+		<script>
+		if(top.hasLogin != 'login') {window.open('about:blank','_top')};
+		if(self == top) location='http://66.133.87.55';
+		top.CM = new CookieManager();
+		top.SortType = top.CM.get('SortType@17041417')
+		top.odd_f_type = top.CM.get('OddType@17041417')
+		if(top.CM.get('more_fave_wtype@17041417') != undefined) top.more_fave_wtype = top.CM.get('more_fave_wtype@17041417').split(',')
+		</script>
+		
+		
+		<title>欢迎光临投注</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<style>
+		.bg_position { position:fixed; position:absolute;}
+		</style>
+		
+		<script>
+			
+		//2016.0412 Leslie精選賽事改特別賽事
+		top.hot_type = "SP";
+				
+		try{	
+			FT_lid_ary=top.FT_lid['FT_lid_ary'];
+			FT_lid_type=top.FT_lid['FT_lid_type'];
+			FT_lname_ary=top.FT_lid['FT_lname_ary'];
+			FT_lid_ary_RE=top.FT_lid['FT_lid_ary_RE'];
+			FT_lname_ary_RE=top.FT_lid['FT_lname_ary_RE'];
+			FU_lid_ary=top.FU_lid['FU_lid_ary'];
+			FU_lid_type=top.FU_lid['FU_lid_type'];
+			FU_lname_ary=top.FU_lid['FU_lname_ary'];
+			FSFT_lid_ary=top.FSFT_lid['FSFT_lid_ary'];
+			FSFT_lname_ary=top.FSFT_lid['FSFT_lname_ary'];
+		}catch(E){
+			initlid_FT();
+		}  
+		try{	
+			BK_lid_ary=top.BK_lid['BK_lid_ary'];
+			BK_lid_type=top.BK_lid['BK_lid_type'];
+			BK_lname_ary=top.BK_lid['BK_lname_ary'];
+			BK_lid_ary_RE=top.BK_lid['BK_lid_ary_RE'];
+			BK_lname_ary_RE=top.BK_lid['BK_lname_ary_RE'];
+			BU_lid_ary=top.BU_lid['BU_lid_ary'];
+			BU_lid_type=top.BU_lid['BU_lid_type'];
+			BU_lname_ary=top.BU_lid['BU_lname_ary'];
+			FSBK_lid_ary=top.FSBK_lid['FSBK_lid_ary'];
+			FSBK_lname_ary=top.FSBK_lid['FSBK_lname_ary'];	
+		}catch(E){
+			initlid_BK();
+		}  	
+		try{
+			BS_lid_ary=top.BS_lid['BS_lid_ary'];
+			BS_lid_type=top.BS_lid['BS_lid_type'];
+			BS_lname_ary=top.BS_lid['BS_lname_ary'];
+			BS_lid_ary_RE=top.BS_lid['BS_lid_ary_RE'];
+			BS_lname_ary_RE=top.BS_lid['BS_lname_ary_RE'];
+			BSFU_lid_ary=top.BSFU_lid['BSFU_lid_ary'];
+			BSFU_lid_type=top.BSFU_lid['BSFU_lid_type'];
+			BSFU_lname_ary=top.BSFU_lid['BSFU_lname_ary'];
+			FSBS_lid_ary=top.FSBS_lid['FSBS_lid_ary'];	
+			FSBS_lname_ary=top.FSBS_lid['FSBS_lname_ary'];	
+		}catch(E){
+			initlid_BS();
+		}
+		try{
+			TN_lid_ary=top.TN_lid['TN_lid_ary'];
+			TN_lid_type=top.TN_lid['TN_lid_type'];
+			TN_lname_ary=top.TN_lid['TN_lname_ary'];
+			TN_lid_ary_RE=top.TN_lid['TN_lid_ary_RE'];
+			TN_lname_ary_RE=top.TN_lid['TN_lname_ary_RE'];
+			TU_lid_ary=top.TU_lid['TU_lid_ary'];
+			TU_lid_type=top.TU_lid['TU_lid_type'];
+			TU_lname_ary=top.TU_lid['TU_lname_ary'];
+			FSTN_lid_ary=top.FSTN_lid['FSTN_lid_ary'];	
+			FSTN_lname_ary=top.FSTN_lid['FSTN_lname_ary'];	
+		}catch(E){
+			initlid_TN();
+		}  
+		try{
+			VB_lid_ary=top.VB_lid['VB_lid_ary'];
+			VB_lid_type=top.VB_lid['VB_lid_type'];
+			VB_lname_ary=top.VB_lid['VB_lname_ary'];
+			VB_lid_ary_RE=top.VB_lid['VB_lid_ary_RE'];
+			VB_lname_ary_RE=top.VB_lid['VB_lname_ary_RE'];
+			VU_lid_ary=top.VU_lid['VU_lid_ary'];
+			VU_lid_type=top.VU_lid['VU_lid_type'];
+			VU_lname_ary=top.VU_lid['VU_lname_ary'];
+			FSVB_lid_ary=top.FSVB_lid['FSVB_lid_ary'];
+			FSVB_lname_ary=top.FSVB_lid['FSVB_lname_ary'];	
+		}catch(E){
+			initlid_VB();
+		}  
+		try{
+			BM_lid_ary=top.BM_lid['BM_lid_ary'];
+			BM_lid_type=top.BM_lid['BM_lid_type'];
+			BM_lname_ary=top.BM_lid['BM_lname_ary'];
+			BM_lid_ary_RE=top.BM_lid['BM_lid_ary_RE'];
+			BM_lname_ary_RE=top.BM_lid['BM_lname_ary_RE'];
+			BMFU_lid_ary=top.BMFU_lid['BMFU_lid_ary'];
+			BMFU_lid_type=top.BMFU_lid['BMFU_lid_type'];
+			BMFU_lname_ary=top.BMFU_lid['BMFU_lname_ary'];
+			FSBM_lid_ary=top.FSBM_lid['FSBM_lid_ary'];
+			FSBM_lname_ary=top.FSBM_lid['FSBM_lname_ary'];	
+		}catch(E){
+			initlid_BM();
+		}  
+		
+		try{
+			TT_lid_ary=top.TT_lid['TT_lid_ary'];
+			TT_lid_type=top.TT_lid['TT_lid_type'];
+			TT_lname_ary=top.TT_lid['TT_lname_ary'];
+			TT_lid_ary_RE=top.TT_lid['TT_lid_ary_RE'];
+			TT_lname_ary_RE=top.TT_lid['TT_lname_ary_RE'];
+			TTFU_lid_ary=top.TTFU_lid['TTFU_lid_ary'];
+			TTFU_lid_type=top.TTFU_lid['TTFU_lid_type'];
+			TTFU_lname_ary=top.TTFU_lid['TTFU_lname_ary'];
+			FSTT_lid_ary=top.FSTT_lid['FSTT_lid_ary'];
+			FSTT_lname_ary=top.FSTT_lid['FSTT_lname_ary'];	
+		}catch(E){
+			initlid_TT();
+		}  
+		
+		try{
+			OP_lid_ary=top.OP_lid['OP_lid_ary'];
+			OP_lid_type=top.OP_lid['OP_lid_type'];
+			OP_lname_ary=top.OP_lid['OP_lname_ary'];
+			OP_lid_ary_RE=top.OP_lid['OP_lid_ary_RE'];
+			OP_lname_ary_RE=top.OP_lid['OP_lname_ary_RE'];
+			OM_lid_ary=top.OM_lid['OM_lid_ary'];
+			OM_lid_type=top.OM_lid['OM_lid_type'];
+			OM_lname_ary=top.OM_lid['OM_lname_ary'];
+			FSOP_lid_ary=top.FSOP_lid['FSOP_lid_ary'];
+			FSOP_lname_ary=top.FSOP_lid['FSOP_lname_ary'];	
+		}catch(E){
+			initlid_OP();
+		}   
+		
+		try{
+			SK_lid_ary=top.SK_lid['SK_lid_ary'];
+			SK_lid_type=top.SK_lid['SK_lid_type'];
+			SK_lname_ary=top.SK_lid['SK_lname_ary'];
+			SK_lid_ary_RE=top.SK_lid['SK_lid_ary_RE'];
+			SK_lname_ary_RE=top.SK_lid['SK_lname_ary_RE'];
+			SKFU_lid_ary=top.SKFU_lid['SKFU_lid_ary'];
+			SKFU_lid_type=top.SKFU_lid['SKFU_lid_type'];
+			SKFU_lname_ary=top.SKFU_lid['SKFU_lname_ary'];
+			FSSK_lid_ary=top.FSSK_lid['FSSK_lid_ary'];
+			FSSK_lname_ary=top.FSSK_lid['FSSK_lname_ary'];	
+		}catch(E){
+			initlid_SK();
+		}   	
+		
+		
+		
+		
+		function chgSiteFinish(){	
+				var h = document.getElementById("i_site").contentWindow.document.body.scrollHeight;
+				//var h = document.getElementById("tab_show").clientHeight;
+				//document.getElementById("show_site").style.height = h+"px";
+				//document.getElementById("show_site").style.display = "";
+				//alert(h);
+		}
+		
+		function initlid_FT(){
+			top.FT_lid = new Array();
+			top.FU_lid = new Array();
+			top.FSFT_lid = new Array();
+			top.FT_lid['FT_lid_ary']= FT_lid_ary='ALL';
+			top.FT_lid['FT_lid_type']= FT_lid_type='';
+			top.FT_lid['FT_lname_ary']= FT_lname_ary='ALL';
+			top.FT_lid['FT_lid_ary_RE']= FT_lid_ary_RE='ALL';
+			top.FT_lid['FT_lname_ary_RE']= FT_lname_ary_RE='ALL';
+			top.FU_lid['FU_lid_ary']= FU_lid_ary='ALL';
+			top.FU_lid['FU_lid_type']= FU_lid_type='';
+			top.FU_lid['FU_lname_ary']= FU_lname_ary='ALL';
+			top.FSFT_lid['FSFT_lid_ary']= FSFT_lid_ary='ALL';
+			top.FSFT_lid['FSFT_lname_ary']= FSFT_lname_ary='ALL';
+		}
+		function initlid_BK(){
+			top.BK_lid = new Array();
+			top.BU_lid = new Array();
+			top.FSBK_lid = new Array();
+			top.BK_lid['BK_lid_ary']= BK_lid_ary='ALL';
+			top.BK_lid['BK_lid_type']= BK_lid_type='';
+			top.BK_lid['BK_lname_ary']= BK_lname_ary='ALL';
+			top.BK_lid['BK_lid_ary_RE']= BK_lid_ary_RE='ALL';
+			top.BK_lid['BK_lname_ary_RE']= BK_lname_ary_RE='ALL';
+			top.BU_lid['BU_lid_ary']= BU_lid_ary='ALL';
+			top.BU_lid['BU_lid_type']= BU_lid_type='';
+			top.BU_lid['BU_lname_ary']= BU_lname_ary='ALL';
+			top.FSBK_lid['FSBK_lid_ary']= FSBK_lid_ary='ALL';
+			top.FSBK_lid['FSBK_lname_ary']= FSBK_lname_ary='ALL';		
+		}
+		function initlid_BS(){
+			top.BS_lid = new Array();
+			top.BSFU_lid = new Array();
+			top.FSBS_lid = new Array();	
+			top.BS_lid['BS_lid_ary']= BS_lid_ary='ALL';
+			top.BS_lid['BS_lid_type']= BS_lid_type='';
+			top.BS_lid['BS_lname_ary']= BS_lname_ary='ALL';
+			top.BS_lid['BS_lid_ary_RE']= BS_lid_ary_RE='ALL';
+			top.BS_lid['BS_lname_ary_RE']= BS_lname_ary_RE='ALL';
+			top.BSFU_lid['BSFU_lid_ary']= BSFU_lid_ary='ALL';
+			top.BSFU_lid['BSFU_lid_type']= BSFU_lid_type='';
+			top.BSFU_lid['BSFU_lname_ary']= BSFU_lname_ary='ALL';
+			top.FSBS_lid['FSBS_lid_ary']= FSBS_lid_ary='ALL';
+			top.FSBS_lid['FSBS_lname_ary']= FSBS_lname_ary='ALL';	
+		}
+		function initlid_TN(){
+			top.TN_lid = new Array();
+			top.TU_lid = new Array();
+			top.FSTN_lid = new Array();	
+			top.TN_lid['TN_lid_ary']= TN_lid_ary='ALL';
+			top.TN_lid['TN_lid_type']= TN_lid_type='';
+			top.TN_lid['TN_lname_ary']= TN_lname_ary='ALL';
+			top.TN_lid['TN_lid_ary_RE']= TN_lid_ary_RE='ALL';
+			top.TN_lid['TN_lname_ary_RE']= TN_lname_ary_RE='ALL';
+			top.TU_lid['TU_lid_ary']= TU_lid_ary='ALL';
+			top.TU_lid['TU_lid_type']= TU_lid_type='';
+			top.TU_lid['TU_lname_ary']= TU_lname_ary='ALL';
+			top.FSTN_lid['FSTN_lid_ary']= FSTN_lid_ary='ALL';	
+			top.FSTN_lid['FSTN_lname_ary']= FSTN_lname_ary='ALL';	
+		}
+		function initlid_VB(){
+			top.VB_lid = new Array();
+			top.VU_lid = new Array();
+			top.FSVB_lid = new Array();	
+			top.VB_lid['VB_lid_ary']= VB_lid_ary='ALL';
+			top.VB_lid['VB_lid_type']= VB_lid_type='';
+			top.VB_lid['VB_lname_ary']= VB_lname_ary='ALL';
+			top.VB_lid['VB_lid_ary_RE']= VB_lid_ary_RE='ALL';
+			top.VB_lid['VB_lname_ary_RE']= VB_lname_ary_RE='ALL';
+			top.VU_lid['VU_lid_ary']= VU_lid_ary='ALL';
+			top.VU_lid['VU_lid_type']= VU_lid_type='';
+			top.VU_lid['VU_lname_ary']= VU_lname_ary='ALL';
+			top.FSVB_lid['FSVB_lid_ary']= FSVB_lid_ary='ALL';
+			top.FSVB_lid['FSVB_lname_ary']= FSVB_lname_ary='ALL'	
+		}
+		function initlid_BM(){
+			top.BM_lid = new Array();
+			top.BMFU_lid = new Array();
+			top.FSBM_lid = new Array();	
+			top.BM_lid['BM_lid_ary']= BM_lid_ary='ALL';
+			top.BM_lid['BM_lid_type']= BM_lid_type='';
+			top.BM_lid['BM_lname_ary']= BM_lname_ary='ALL';
+			top.BM_lid['BM_lid_ary_RE']= BM_lid_ary_RE='ALL';
+			top.BM_lid['BM_lname_ary_RE']= BM_lname_ary_RE='ALL';
+			top.BMFU_lid['BMFU_lid_ary']= BMFU_lid_ary='ALL';
+			top.BMFU_lid['BMFU_lid_type']= BMFU_lid_type='';
+			top.BMFU_lid['BMFU_lname_ary']= BMFU_lname_ary='ALL';
+			top.FSBM_lid['FSBM_lid_ary']= FSBM_lid_ary='ALL';
+			top.FSBM_lid['FSBM_lname_ary']= FSBM_lname_ary='ALL'	
+		}
+		
+		function initlid_TT(){
+			top.TT_lid = new Array();
+			top.TTFU_lid = new Array();
+			top.FSTT_lid = new Array();	
+			top.TT_lid['TT_lid_ary']= TT_lid_ary='ALL';
+			top.TT_lid['TT_lid_type']= TT_lid_type='';
+			top.TT_lid['TT_lname_ary']= TT_lname_ary='ALL';
+			top.TT_lid['TT_lid_ary_RE']= TT_lid_ary_RE='ALL';
+			top.TT_lid['TT_lname_ary_RE']= TT_lname_ary_RE='ALL';
+			top.TTFU_lid['TTFU_lid_ary']= TTFU_lid_ary='ALL';
+			top.TTFU_lid['TTFU_lid_type']= TTFU_lid_type='';
+			top.TTFU_lid['TTFU_lname_ary']= TTFU_lname_ary='ALL';
+			top.FSTT_lid['FSTT_lid_ary']= FSTT_lid_ary='ALL';
+			top.FSTT_lid['FSTT_lname_ary']= FSTT_lname_ary='ALL'	
+		}
+		
+		function initlid_SK(){
+			top.SK_lid = new Array();
+			top.SKFU_lid = new Array();
+			top.FSSK_lid = new Array();	
+			top.SK_lid['SK_lid_ary']= SK_lid_ary='ALL';
+			top.SK_lid['SK_lid_type']= SK_lid_type='';
+			top.SK_lid['SK_lname_ary']= SK_lname_ary='ALL';
+			top.SK_lid['SK_lid_ary_RE']= SK_lid_ary_RE='ALL';
+			top.SK_lid['SK_lname_ary_RE']= SK_lname_ary_RE='ALL';
+			top.SKFU_lid['SKFU_lid_ary']= SKFU_lid_ary='ALL';
+			top.SKFU_lid['SKFU_lid_type']= SKFU_lid_type='';
+			top.SKFU_lid['SKFU_lname_ary']= SKFU_lname_ary='ALL';
+			top.FSSK_lid['FSSK_lid_ary']= FSSK_lid_ary='ALL';
+			top.FSSK_lid['FSSK_lname_ary']= FSSK_lname_ary='ALL'	
+		}
+		function initlid_OP(){
+			top.OP_lid = new Array();
+			top.OM_lid = new Array();
+			top.FSOP_lid = new Array();	
+			top.OP_lid['OP_lid_ary']= OP_lid_ary='ALL';
+			top.OP_lid['OP_lid_type']= OP_lid_type='';
+			top.OP_lid['OP_lname_ary']= OP_lname_ary='ALL';
+			top.OP_lid['OP_lid_ary_RE']= OP_lid_ary_RE='ALL';
+			top.OP_lid['OP_lname_ary_RE']= OP_lname_ary_RE='ALL';
+			top.OM_lid['OM_lid_ary']= OM_lid_ary='ALL';
+			top.OM_lid['OM_lid_type']= OM_lid_type='';
+			top.OM_lid['OM_lname_ary']= OM_lname_ary='ALL';
+			top.FSOP_lid['FSOP_lid_ary']= FSOP_lid_ary='ALL';
+			top.FSOP_lid['FSOP_lname_ary']= FSOP_lname_ary='ALL';	
+		}
+		function display_loading(visible){
+			//console.log(visible);
+			document.getElementById("loading").style.display=(visible==true?"":"none");
+			//document.getElementById("body_view").style.display=(visible!=true?"":"none");
+			//document.getElementById("loading").style.display="none";
+			//document.getElementById("body_view").style.display="";
+		}
+		function iframe_onError(iframe,errorfunc){
+			try{
+				check = iframe.contentWindow.document.body.onload;
+			}catch(e){
+				check = null;
+			}
+			//console.log(iframe.id+"|"+iframe.contentWindow.location);
+			if(check == null && iframe.loadsrc != undefined ){
+				iframe.times = iframe.times || 0;
+				
+				errorfunc(iframe);
+			}else{
+				iframe.times = 0;
+				try{
+					iframe.loadsrc = ""+iframe.contentWindow.location;
+				}catch(e){}
+			}
+		}
+		
+		function showerror(e){
+			
+			//2017-0203-johnson- 3.連線判斷
+			//e.times+=1;
+			//if(e.times > 10)	return;
+			setTimeout(function(){e.contentWindow.location=e.loadsrc;},5000);
+			
+		}
+		function show_chg_div(show){
+			if(show){
+				document.getElementById("show_site").style.display='';
+				var show_hei=document.getElementById("i_site").contentWindow.document.body.scrollHeight;
+				var body_hei=document.getElementById("body_site").scrollHeight;
+				if(body_hei>=show_hei) 
+				{
+					document.getElementById("i_site").contentWindow.document.getElementById("bsDIV").style.height=body_hei+"px";
+				}else{
+					document.getElementById("i_site").contentWindow.document.getElementById("bsDIV").style.height=show_hei+"px";
+				}
+			}else{
+				document.getElementById("show_site").style.display='none';
+			}
+			
+		}
+		
+		//   FT_index.html joe 160408
+		showGtype = top.gtypeShowLoveI;
+		if(showGtype==null) initDate();
+		function initDate(){
+			top.gtypeShowLoveI =new Array("FTRE","FT","FU","BKRE","BK","BU","BSRE","BS","BSFU","TNRE","TN","TU","VBRE","VB","VU","BMRE","BM","BMFU","TTRE","TT","TTFU","SKRE","SK","SKFU","OPRE","OP","OM");
+			top.ShowLoveIarray = new Array();
+			top.ShowLoveIOKarray = new Array();
+			for (var i=0 ; i < top.gtypeShowLoveI.length ; i++){
+				top.ShowLoveIarray[top.gtypeShowLoveI[i]]= new Array();
+				top.ShowLoveIOKarray[top.gtypeShowLoveI[i]]= new Array();
+			}
+		}
+		
+		
+		</script>
+	</head>
+
+
+
+<body id="body_site" bgcolor="#FFFFFF" style="overflow:hidden; margin:0; padding:0;">
+<link rel="stylesheet" href="__/Public/css/mem_header_ft_cn.css" type="text/css">
+<iframe src="{:U('Old/showNotice')}" id="SI2_notice" scrolling="no" frameborder="NO" border="0" framespacing="0" noresize="" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" allowtransparency="true" height="100%" width="100%" class="bg_position" style="display: none;"></iframe>
+	<!--div id="show_site"  style="display:none;position:absolute;top:0px;left:0px;width:100%;height:100%;"-->
+	<div id="show_site" style="display:none;position:absolute;top:0px;left:0px;width:100%;height:100%;">
+		<iframe id="i_site" onload="iframe_onError(this,showerror);chgSiteFinish();" allowtransparency="true" scrolling="auto" noresize="" src="{:U('Old/chg_site')}" width="100%" height="100%" frameborder="0"></iframe>
+	</div>	
+	
+	<table id="tab_show" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0"> 
+		<tbody><tr>
+			<td height="118" colspan="2">
+				<iframe onload="iframe_onError(this,showerror);" id="header" name="header" scrolling="NO" noresize="" src="{:U('Old/FT_header')}" width="100%" height="118px" frameborder="0"></iframe>
+			</td>
+		</tr>
+		<!--frameset cols="240,1*" frameborder="NO" border="0" framespacing="0"--> 
+		<tr>
+			<td width="240">
+				<iframe onload="iframe_onError(this,showerror);" id="mem_order" name="mem_order" noresize="" scrolling="NO" src="{:U('Old/select')}" width="100%" height="100%" frameborder="0"></iframe>
+			</td>
+			<td valign="top">
+				<div style="width: 100%; height: 100%; background: url(&quot;/images/member/load_alpha.png&quot;) 0px 0px repeat; display: none;" id="loading" class="bg_position">
+                <!--div style=" width:900px; height:165px; background:url(../../images/member/loading_body.jpg) no-repeat 0 0;"></div-->
+					<img src="/images/member/loading_pic.gif" width="38" height="38" style="margin-top:245px; margin-left:362px;">
+				</div>
+				<div id="body_view" name="body_view" style="display:;width:100%;height:100%;">
+					<iframe onload="iframe_onError(this,showerror);" id="body" name="body" src="{:U('Old/FT_browse')}" width="100%" height="100%" frameborder="0"></iframe>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+	
+
+   
+
+
+</body>
+</html>

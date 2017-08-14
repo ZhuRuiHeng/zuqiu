@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>我的账户</title>
+    <link rel="stylesheet" type="text/css" href="/Public/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="/Public/css/my_account.css">
+</head>
+    <body  class="index_accBody">
+        <table id="ACC_W" class="index_accMainTB" border="0" cellpadding="0" cellspacing="0"> 
+            <tbody>
+                <tr>
+                    <td class="index_accTD_left">
+                        <!-- 左侧 -->
+                        <include file="Mes/aside"/> 
+                    </td>
+                    <td class="index_accTD_right">
+                        <div id="body_view" name="body_view" style="display:;width:100%;height:100%;">
+                            <!-- 右侧 {:U('Log/forget')}-->
+                            <iframe src="{:U('Mes/history_data')}" frameborder="0" width="100%" height="100%"></iframe> 
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+    <script type="text/javascript" src="/Public/js/jquery-1.12.2.js"></script>
+    <script type="text/javascript">
+    	//模拟进来点击
+    	var newstr="{$_GET[id]}";
+    	function dangqian(){
+    		lujing = $("iframe").attr("src","/index.php/Home/Mes/"+newstr);
+            $(".acc_right_menuDIV li").removeClass('on');
+            $("#"+newstr).addClass("on");
+    	}dangqian();
+    	
+        //路径
+        function linkEvent(obj,yemian){
+            
+            var url = "/index.php/Home/Mes/"+yemian;
+                lujing = $("iframe").attr("src",url);
+                //console.log(lujing);
+            $(".acc_right_menuDIV li").removeClass('on');
+            $(obj).addClass("on");
+        }
+        
+    </script>
+</html>

@@ -1,0 +1,278 @@
+
+
+<style>
+  .coffee{
+      background: #725945;
+  }
+  .wt{
+      background: #FFF;
+  }
+</style>
+<!-- 公共头部 -->
+ <tr class="wt">
+  <td id="header" class="index_headTD" colspan="3" url="">
+    <div>
+      <div class="head_main noFloat">
+        <!--帐户区-->
+        <div class="head_accDIV">
+          <span class="head_acc">
+            <span id="sel_div_acc" class="head_accBTN">
+            </span>
+            <!--将按钮图案取出-->
+            <div id="div_acc" class="head_MINImenu" style="display:none" onmouseleave="hideDiv('div_acc');"
+            tabindex="100">
+              <span class="head_MINImenu_arr">
+              </span>
+              <h1>
+                我的帐户
+              </h1>
+              <ul class="head_MINIul">
+                <li id="hide_balance" onclick="showDiv('div_acc');setBalanceVisible(false);"
+                onmouseover="showOn(this);" onmouseout="showOut(this);">
+                  隐藏余额
+                </li>
+                <li id="show_balance" onclick="showDiv('div_acc');setBalanceVisible(true);"
+                style="display:none;" onmouseover="showOn(this);" onmouseout="showOut(this);">
+                  显示余额
+                </li>
+                <li onclick="showDiv('div_acc');showMyAccount('Account');" onmouseover="showOn(this);"
+                onmouseout="showOut(this);">
+                  详细设定
+                </li>
+                <li onclick=" showDiv('div_acc');showMyAccount('setEmail');" onmouseover="showOn(this);"
+                onmouseout="showOut(this);">
+                  密码恢复
+                  <span id="mail_status" class="head_annouTD_new">
+                  </span>
+                </li>
+                <li onclick="showDiv('div_acc');showMyAccount('ChgPass');" onmouseover="showOn(this);"
+                onmouseout="showOut(this);">
+                  更改密码
+                </li>
+                <li onclick="logOut('http://66.133.87.20');" onmouseover="showOn(this);"
+                onmouseout="showOut(this);">
+                  退出
+                </li>
+              </ul>
+            </div>
+          </span>
+          <div class="head_cre">
+            <h1 id="head_cre">
+              heming1
+            </h1>
+            <!--隐藏余额class="head_hideCre"-->
+            <h2 id="credit">
+              人民币 100
+            </h2>
+            <span class="head_refresh" onclick="reloadCrditFunction();">
+            </span>
+          </div>
+        </div>
+        <div class="head_Right noFloat">
+          <!--功能按钮区-->
+          <ul id="head_MINI" class="head_OUTmenu noFloat CN">
+            <li class="head_lan no_margin" title="语言转换">
+              <span id="sel_div_langx" class="head_lanBTN">
+              </span>
+              <!--将按钮图案取出-->
+              <span class="head_lanTxt">
+                简
+              </span>
+              <div id="div_langx" class="head_MINImenu" style="display:none" onmouseleave="hideDiv('div_langx');"
+              tabindex="100">
+                <span class="head_MINImenu_arr">
+                </span>
+                <h1>
+                  语言
+                </h1>
+                <ul class="head_MINIul">
+                  <li class="head_en" onclick="showDiv('div_langx');changeLangx('en-us')"
+                  onmouseover="showOn(this);" onmouseout="showOut(this);">
+                    English
+                  </li>
+                  <li class="head_tw" onclick="showDiv('div_langx');changeLangx('zh-tw')"
+                  onmouseover="showOn(this);" onmouseout="showOut(this);">
+                    繁体
+                  </li>
+                  <li class="head_cn" onclick="showDiv('div_langx');changeLangx('zh-cn')"
+                  onmouseover="showOn(this);" onmouseout="showOut(this);">
+                    简体
+                  </li>
+                  <li style="display:none" class="head_kr" onclick="showDiv('div_langx');changeLangx('ko-kr')"
+                  onmouseover="showOn(this);" onmouseout="showOut(this);">
+                    한국어
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="head_help" title="帮助">
+              <span id="sel_div_help" class="head_helpBTN">
+              </span>
+              <!--将按钮图案取出-->
+              <div id="div_help" class="head_MINImenu" style="display:none" onmouseleave="hideDiv('div_help');"
+              tabindex="100">
+                <span class="head_MINImenu_arr">
+                </span>
+                <!--onclick="window.location.href='/index.php/Home/Mes/message.html?id=sport_rules'"-->
+                <h1>
+                  帮助
+                </h1>
+                <ul class="head_MINIul">
+                  <li onclick="window.location.href='/index.php/Home/Mes/message.html?id=sport_rules'", "_blank'" onmouseover="showOn(this);"
+                  onmouseout="showOut(this);">
+                    体育规则
+                  </li>
+                  <li onclick="window.location.href='/index.php/Home/Mes/message.html?id=Terms'", "_blank'" onmouseover="showOn(this);"
+                  onmouseout="showOut(this);">
+                    规则与条款
+                  </li>
+                  <li onclick="window.location.href='/index.php/Home/Mes/message.html?id=new_features'", "_blank'" onmouseover="showOn(this);"
+                  onmouseout="showOut(this);">
+                    新功能
+                  </li>
+                  <li onclick="window.location.href='/index.php/Home/Mes/message.html?id=odds'", "_blank'" onmouseover="showOn(this);"
+                  onmouseout="showOut(this);">
+                    赔率计算列表
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="head_con" onclick="showDiv('');showMyAccount('Contactus');"
+            title="联系我们">
+            </li>
+            <li id="head_live" style="disply:none" class="head_live" onclick="showDiv('');showLive();"
+            title="在线直播">
+            </li>
+            <li id="head_ann" class="head_ann" title="公告">
+              <span id="head_annBTN" class="head_annGIF" onclick="showDiv('annou');">
+                <span id="count_ann" class="head_annMINI">
+                  5
+                </span>
+              </span>
+              <!--将按钮图案取出-->
+              <span id="head_ann_arr" class="head_MINImenu_arr" style="display:none">
+              </span>
+              <!-- 公告内容 -->
+              <div id="annou" name="annou" class="head_annouDIV" style="display:none;" >
+                  <div id="div_ann" class="head_annouDIV_inside">
+                      <span class="head_annou_closeBTN" onclick="closeIframe();"></span>                
+                      <h1>新公告</h1>
+                      <ul class="head_annou_menu">
+                        <li id="Important" onclick="chg_important(1,'scroll_header')" class="On">重要<span id="ImportantMessage" class="head_ann_liMINI" style="display:none"></span></li>
+                        <li id="Personal" onclick="chg_important(2,'scroll_header')" class="acc_ann_msgBTN">个人<span id="PersonalMessage" class="head_ann_liMINI" style="display:none"></span></li>
+                        <li id="General" onclick="chg_important(0,'scroll_header')" class="acc_ann_msgBTN">一般</li>
+                      </ul>
+                                          
+                      <div class="head_annouTXT">
+                        <table cellspacing="0" cellpadding="0" class="head_annouTB">
+                          <tbody>
+                              <tr style="display: ">
+                                <td class="head_ann_imporTD">
+                                <h2 class="head_read">16-05-30<span style="display: none" class="head_annouTD_new"></span></h2>
+                                <h3 class="head_read">尊贵的客户，本公司已提供修复DNS的软件於所有会员下载，如您无法正常访问本公司网站，请到http://180.94.224.94/ 或新版会员端的“故障及疑难排解”下载此软件。</h3>
+                                </td>
+                              </tr>
+                              <tr style="display: ">
+                                <td class="head_ann_imporTD">
+                                <h2 class="head_read">16-02-25<span style="display: none" class="head_annouTD_new"></span></h2>
+                                <h3 class="head_read">微软已经宣佈停止支援10和以下的IE浏览器版本.这意味着如果您还在使用IE 6, 7, 8, 9或10的版本,您是在使用微软已经不再支援的浏览器.一旦浏览器不再被支援,保护您的网络安全程式将不会是最新的,这也会增加您被骇和资料被盗取的可能性.最新的浏览器能比较有效的保护您被网络诈骗,病毒,木马程式,网络钓鱼和其他等的威胁.而且,最新的浏览器也会经常修补您在使用的浏览器的网络安全漏洞.我们强烈的建议您下载最新的浏览器如Chrome, FireFox 或 Safari以保持目前最完善的网络安全级别.</h3>
+                                </td>
+                              </tr>
+                              <tr style="display: ">
+                                <td class="head_ann_imporTD">
+                                <h2 class="head_read">15-09-27<span style="display: none" class="head_annouTD_new"></span></h2>
+                                <h3 class="head_read">敬请注意: 为了提高个人帐号密码的安全性, 请不要透过网址导航, 网址大全, 资讯网等等网站的超链接登录至我们的网站, 来路不明的第三方网站会使您的帐号密码被盗用的风险提高!!!</h3>
+                                </td>
+                              </tr>
+                              <tr style="display: ">
+                                <td class="head_ann_imporTD">
+                                <h2 class="head_read">15-09-27<span style="display: none" class="head_annouTD_new"></span></h2>
+                                <h3 class="head_read">敬请注意: 基於法律风险以及安全上的考量，本公司严格禁止来自美国和新加坡地区的投注， 如有发现任何来自美国和新加坡IP地址的注单，本公司将保留赛前或赛后取消注单的权利。</h3>
+                                </td>
+                              </tr>
+                              <tr style="display: ">
+                                <td class="head_ann_imporTD">
+                                <h2 class="head_read">15-09-27<span style="display: none" class="head_annouTD_new"></span></h2>
+                                <h3 class="head_read">敬请注意: 本公司对於不正常获利行为如抄水, 软件投注, 或集团出货均视为非正常投注. 对於此类注单本公司有保留或取消注单的权利, 无论在赛前，赛中，或赛后.</h3>
+                                </td>
+                              </tr>
+                          </tbody>
+                        </table>
+                      <!--無訊息-->
+                        <div class="head_annouNO" style="display: none">您选择的项目暂时没有信息.</div>
+                        <span onclick="window.location.href='{:U('Mes/message')}'" target="_blank" class="head_annou_moreBTN">查看所有</span>
+                    </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+          <ul class="head_Left">
+            <li class="head_time" id="head_date" style="">
+              <span id="head_year" class="head_space">
+                2017年
+              </span>
+              <span id="head_month" class="head_space">
+                6月
+              </span>
+              <span id="head_day" class="head_space">
+                28日
+              </span>
+              <span id="head_hour">
+                09
+              </span>
+              :
+              <span id="head_min">
+                09
+              </span>
+            </li>
+            <li id="chg_site">
+              切换至旧版
+            </li>
+            <li id="btn_openbets" onclick="window.location.href='/index.php/Home/Mes/message.html?id=today_wagers'">
+              交易状况
+            </li>
+            <li id="btn_history" onclick="window.location.href='/index.php/Home/Mes/message.html?id=history_data'">
+              帐户历史
+            </li>
+            <li id="btn_result" onclick="window.location.href='/index.php/Home/Mes/message.html?id=result'">
+              赛果
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div id="showURL">
+        </div>
+        <iframe id="memOnline" name="memOnline" height="0" width="0" style="display:none;">
+        </iframe>
+        <iframe id="reloadPHP" name="reloadPHP" width="0" height="0" style="display:none;">
+        </iframe>
+        <iframe id="reloadPHP1" name="reloadPHP1" width="0" height="0" style="display:none;">
+        </iframe>
+      </div>
+    </div>
+  </td>
+</tr>
+
+<script type="text/javascript" src="/Public/js/jquery-1.12.2.js"></script>
+<script type="text/javascript">
+    //选择语言
+    $("#sel_div_langx").click(function(){
+        $("#div_langx").toggle();
+    });
+    //帮助中心
+    $("#sel_div_help").click(function(){
+        $("#div_help").toggle();
+    });
+    //公告
+    $("#head_annBTN").click(function(){
+        $("#count_ann,#head_ann_arr,#annou").toggle();
+    });
+    function onmouseout(){
+    };
+    function showOn(){
+    };
+    function showOut(){
+    };
+   
+</script>
